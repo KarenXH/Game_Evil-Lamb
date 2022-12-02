@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: fd6cf62568e6d4e49aa3044cc541f43f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-SnowRock-acc754ea #1899542_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1445
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -389.5, y: 257}
+        - {x: -389.5, y: 257}
+        - {x: -722.5, y: 257}
+        - {x: -722.5, y: -257}
+        - {x: -70.5, y: -257}
+        - {x: 722.5, y: -257}
+        - {x: 722.5, y: -61}
+        - {x: 389.5, y: 257}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdca8c23256da8945a3eb0c6e3d13d14
+      internalID: 1278001122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-SnowRock-acc754ea #1899542_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 735
+        width: 605
+        height: 1043
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 302.5, y: 521.5}
+        - {x: -302.5, y: 521.5}
+        - {x: -251.5, y: 398.5}
+        - {x: -64.5, y: 79.5}
+        - {x: -11.5, y: -198.5}
+        - {x: 81.5, y: -521.5}
+        - {x: 238.5, y: -521.5}
+        - {x: 302.5, y: -257}
+        - {x: 302.5, y: 25.5}
+        - {x: 255.5, y: 402.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a241336e8b1ca4aac8f2b5122e450d
+      internalID: 924267064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-SnowRock-acc754ea #1899542_2
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 893
+        width: 608
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 263, y: 322}
+        - {x: 288, y: 362}
+        - {x: 304, y: 393}
+        - {x: 304, y: 417}
+        - {x: -304, y: 417}
+        - {x: -304, y: 215}
+        - {x: -194, y: -285}
+        - {x: -57, y: -417}
+        - {x: 29, y: -417}
+        - {x: 73, y: -288}
+        - {x: 172, y: 40}
+        - {x: 235, y: 249}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d733430223f89cc43b458cd11623a87a
+      internalID: -192557491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-SnowRock-acc754ea #1899542_3
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 0
+        width: 779
+        height: 1021
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -389.5, y: 510.5}
+        - {x: -389.5, y: 482.5}
+        - {x: -367.5, y: 397.5}
+        - {x: -163.5, y: -393.5}
+        - {x: -70.5, y: -510.5}
+        - {x: 62.5, y: -510.5}
+        - {x: 329.5, y: 369.5}
+        - {x: 389.5, y: 510.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b73b7e1abafc248af6861f92281259
+      internalID: 1279463136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-SnowRock-acc754ea #1899542_4
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1472
+        width: 525
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -262.5, y: 278}
+        - {x: -262.5, y: 248}
+        - {x: -239.5, y: 164}
+        - {x: -157.5, y: 17}
+        - {x: -99.5, y: -156}
+        - {x: -50.5, y: -278}
+        - {x: 262.5, y: -278}
+        - {x: 262.5, y: 278}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b89080aafbb72469613610081c4ba6
+      internalID: 2013196038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-SnowRock-acc754ea #1899542_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 716
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 450}
+        - {x: 14, y: 537}
+        - {x: -231, y: 435}
+        - {x: -358, y: 257}
+        - {x: -358, y: 257}
+        - {x: -358, y: 257}
+        - {x: -358, y: -537}
+        - {x: 358, y: -537}
+        - {x: 264, y: -266}
+        - {x: 196, y: -54}
+        - {x: 146, y: 239}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3ca4684e45aca4dbcfec9d62a11b24
+      internalID: -1218651260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-SnowRock-acc754ea #1899542_6
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1021
+        width: 744
+        height: 879
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 311.5}
+        - {x: -70, y: 439.5}
+        - {x: -134, y: 378.5}
+        - {x: -137, y: 256.5}
+        - {x: -180, y: 179.5}
+        - {x: -330, y: -259.5}
+        - {x: -372, y: -439.5}
+        - {x: 372, y: -439.5}
+        - {x: 148, y: -123.5}
+        - {x: 62, y: 116.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26261f47c96d6d64babd0a971982a3fe
+      internalID: -1477189424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-2048x2048-Crunch-SnowRock-acc754ea #1899542_4: 2013196038
+      sactx-2048x2048-Crunch-SnowRock-acc754ea #1899542_3: 1279463136
+      sactx-2048x2048-Crunch-SnowRock-acc754ea #1899542_1: 924267064
+      sactx-2048x2048-Crunch-SnowRock-acc754ea #1899542_6: -1477189424
+      sactx-2048x2048-Crunch-SnowRock-acc754ea #1899542_5: -1218651260
+      sactx-2048x2048-Crunch-SnowRock-acc754ea #1899542_2: -192557491
+      sactx-2048x2048-Crunch-SnowRock-acc754ea #1899542_0: 1278001122
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

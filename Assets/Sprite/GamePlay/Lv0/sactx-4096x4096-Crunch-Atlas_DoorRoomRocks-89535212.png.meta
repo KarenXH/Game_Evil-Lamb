@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: 75febde549aa9ad4a866339cb531b5a8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3412
+        width: 1574
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -407, y: 130.5}
+        - {x: -727, y: 160.5}
+        - {x: -716, y: -174.5}
+        - {x: -207, y: -179.5}
+        - {x: -126, y: -166.5}
+        - {x: -46, y: -167.5}
+        - {x: 21, y: -179.5}
+        - {x: 397, y: -179.5}
+        - {x: 550, y: -141.5}
+        - {x: 787, y: -39.5}
+        - {x: 787, y: 94.5}
+        - {x: 414, y: 145.5}
+        - {x: 307, y: 104.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d79d01359b3e34c90443cdf1c29f61
+      internalID: 1411791573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1873
+        width: 1192
+        height: 1248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 624}
+        - {x: -133, y: 592}
+        - {x: -230, y: 568}
+        - {x: -433, y: 428}
+        - {x: -596, y: 130}
+        - {x: -596, y: -624}
+        - {x: -250, y: -624}
+        - {x: -222, y: -600}
+        - {x: 63, y: -601}
+        - {x: 327, y: -600}
+        - {x: 596, y: -590}
+        - {x: 596, y: -503}
+        - {x: 557, y: -14}
+        - {x: 430, y: 312}
+        - {x: 412, y: 385}
+        - {x: 351, y: 624}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5fb35884c3f264eb4e6c6762d01fda
+      internalID: -894610312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_4
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 2839
+        width: 698
+        height: 1257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 292.5}
+        - {x: -235, y: 106.5}
+        - {x: -329.5, y: -180}
+        - {x: -349, y: -400.5}
+        - {x: -349, y: -619.5}
+        - {x: -6, y: -623.5}
+        - {x: 349, y: -616.5}
+        - {x: 300, y: -80.5}
+        - {x: 208, y: 230.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaf90efa432bd9448aa4fea13b4c022
+      internalID: -951980557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_5
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1641
+        width: 1201
+        height: 1294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -226.5, y: 593}
+        - {x: -292.5, y: 557}
+        - {x: -346.5, y: 560}
+        - {x: -402.5, y: 558}
+        - {x: -462.5, y: 555}
+        - {x: -600.5, y: 540}
+        - {x: -600.5, y: 245}
+        - {x: -600.5, y: -14}
+        - {x: -543.5, y: -259}
+        - {x: -424.5, y: -384}
+        - {x: -408.5, y: -411}
+        - {x: -396.5, y: -492}
+        - {x: -179.5, y: -647}
+        - {x: 151.5, y: -647}
+        - {x: 364.5, y: -549}
+        - {x: 485.5, y: -254}
+        - {x: 532.5, y: 56}
+        - {x: 558.5, y: 216}
+        - {x: 568.5, y: 335}
+        - {x: 577.5, y: 456}
+        - {x: 579.5, y: 530}
+        - {x: 542.5, y: 593}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e8a3bc5c84490419c5d6646ee416d9
+      internalID: 1313982190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_6
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 2969
+        width: 867
+        height: 856
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -433, y: 428}
+        - {x: -433, y: 322}
+        - {x: -329.5, y: -180}
+        - {x: -257.5, y: -328}
+        - {x: -171, y: -428}
+        - {x: -1, y: -428}
+        - {x: 79, y: -358}
+        - {x: 277, y: 334}
+        - {x: 277, y: 428}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d68d7688c4ed6499783cbdd8aa7b02
+      internalID: -440283040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1227
+        height: 1457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -213.5, y: 728.5}
+        - {x: -424.5, y: 387.5}
+        - {x: -605.5, y: 322.5}
+        - {x: -613.5, y: -277.5}
+        - {x: -613.5, y: -728.5}
+        - {x: -16.5, y: -728.5}
+        - {x: 613.5, y: -728.5}
+        - {x: 613.5, y: -554.5}
+        - {x: 487.5, y: -128.5}
+        - {x: 419.5, y: 180.5}
+        - {x: 361.5, y: 364.5}
+        - {x: 328.5, y: 512.5}
+        - {x: 253.5, y: 728.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17530f42b67949a49b044b8129e62d87
+      internalID: 383129769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_8
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 435
+        width: 1232
+        height: 1468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -294, y: 729}
+        - {x: -616, y: 724}
+        - {x: -616, y: 344}
+        - {x: -524, y: 222}
+        - {x: -451, y: -24}
+        - {x: -388, y: -215}
+        - {x: -345, y: -405}
+        - {x: -132, y: -734}
+        - {x: 142, y: -734}
+        - {x: 286, y: -636}
+        - {x: 348, y: -460}
+        - {x: 373, y: -363}
+        - {x: 405, y: -261}
+        - {x: 480, y: 21}
+        - {x: 558.5, y: 216}
+        - {x: 568.5, y: 335}
+        - {x: 577.5, y: 456}
+        - {x: 613, y: 723}
+        - {x: 442, y: 726}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14911a49504cf943973807bafa99543
+      internalID: -861646912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_9
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 0
+        width: 1238
+        height: 1457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -213.5, y: 728.5}
+        - {x: -351, y: 390.5}
+        - {x: -402, y: 184.5}
+        - {x: -421, y: 122.5}
+        - {x: -440, y: 51.5}
+        - {x: -455, y: -0.5}
+        - {x: -474, y: -95.5}
+        - {x: -619, y: -507.5}
+        - {x: -613.5, y: -728.5}
+        - {x: -16.5, y: -728.5}
+        - {x: 613.5, y: -728.5}
+        - {x: 613.5, y: -554.5}
+        - {x: 487.5, y: -128.5}
+        - {x: 419.5, y: 180.5}
+        - {x: 374, y: 366.5}
+        - {x: 328.5, y: 512.5}
+        - {x: 253.5, y: 728.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b00586d7fdd764489487983235ed89
+      internalID: -509093984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_10
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1
+        width: 1555
+        height: 1612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -306.5, y: 806}
+        - {x: -777.5, y: 806}
+        - {x: -742.5, y: 344}
+        - {x: -705.5, y: 202}
+        - {x: -675.5, y: 60}
+        - {x: -625.5, y: -142}
+        - {x: -525.5, y: -347}
+        - {x: -408.5, y: -411}
+        - {x: -396.5, y: -492}
+        - {x: -179.5, y: -647}
+        - {x: 151.5, y: -647}
+        - {x: 364.5, y: -549}
+        - {x: 485.5, y: -254}
+        - {x: 532.5, y: 56}
+        - {x: 558.5, y: 216}
+        - {x: 568.5, y: 335}
+        - {x: 577.5, y: 456}
+        - {x: 541.5, y: 638}
+        - {x: 416.5, y: 806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71b649b88303a84e98b7166c0d9cd57
+      internalID: -2009288732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_11
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 1653
+        width: 697
+        height: 1639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.5, y: 776.5}
+        - {x: -124.5, y: 794.5}
+        - {x: -266.5, y: 573.5}
+        - {x: -198.5, y: 350.5}
+        - {x: -209.5, y: 145.5}
+        - {x: -221.5, y: 39.5}
+        - {x: -244.5, y: -163.5}
+        - {x: -289.5, y: -452.5}
+        - {x: -348.5, y: -819.5}
+        - {x: 86.5, y: -819.5}
+        - {x: 348.5, y: -819.5}
+        - {x: 348.5, y: -484.5}
+        - {x: 277, y: 334}
+        - {x: 277, y: 428}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b16df730274d5d4ba1dab79b0c4f525
+      internalID: 1091933084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1c6916a75a3fe78489693832a7a0e424
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_0: -551429105
+      sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_3: -894610312
+      sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_5: 1313982190
+      sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_4: -951980557
+      sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_7: 383129769
+      sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_9: -509093984
+      sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_1: 1411791573
+      sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_11: 1091933084
+      sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_6: -440283040
+      sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_10: -2009288732
+      sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_8: -861646912
+      sactx-4096x4096-Crunch-Atlas_DoorRoomRocks-89535212_2: -1866535500
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

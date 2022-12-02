@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: f700ba2f41ac0904d859f88a615b0387
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-SpikeyTrees-85448691_0
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 870
+        width: 466
+        height: 1044
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 217, y: 506}
+        - {x: -233, y: 506}
+        - {x: -233, y: -62}
+        - {x: -178, y: -229}
+        - {x: -174, y: -327}
+        - {x: -122, y: -394}
+        - {x: -128, y: -522}
+        - {x: 132, y: -522}
+        - {x: 127, y: -415}
+        - {x: 140, y: -325}
+        - {x: 233, y: -316}
+        - {x: 233, y: -266}
+        - {x: 233, y: -63}
+        - {x: 217, y: 149}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ece17f4418ac34a90d8eb578587ba1
+      internalID: 1189153661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-SpikeyTrees-85448691_1
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 0
+        width: 507
+        height: 1094
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.5, y: 471}
+        - {x: -133.5, y: 290}
+        - {x: -179.5, y: 240}
+        - {x: -245.5, y: 60}
+        - {x: -231.5, y: -357}
+        - {x: -253.5, y: -547}
+        - {x: 200.5, y: -547}
+        - {x: 163.5, y: -376}
+        - {x: 172.5, y: -300}
+        - {x: 159.5, y: -151}
+        - {x: 230.5, y: -98}
+        - {x: 222.96704, y: -59.909912}
+        - {x: 116.5, y: -12}
+        - {x: 119.5, y: 96}
+        - {x: 214.5, y: 121}
+        - {x: 163.5, y: 206}
+        - {x: 210.5, y: 258}
+        - {x: 157.5, y: 332}
+        - {x: 137.5, y: 419}
+        - {x: 150.5, y: 466}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54697365d2c1fb7498c3dd6a19077510
+      internalID: 459480352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-SpikeyTrees-85448691_2
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 633
+        width: 215
+        height: 1058
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.5, y: 529}
+        - {x: -107.5, y: -528}
+        - {x: 107.5, y: -529}
+        - {x: 106.5, y: 529}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385958ce99aada740ba8095543dce878
+      internalID: 1366045994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-SpikeyTrees-85448691_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 414
+        height: 1172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -207, y: 586}
+        - {x: -207, y: -586}
+        - {x: 173, y: -586}
+        - {x: 192, y: -487}
+        - {x: 124, y: -414}
+        - {x: 192, y: -317}
+        - {x: 187, y: -246}
+        - {x: 150, y: -199}
+        - {x: 107, y: -89}
+        - {x: 152, y: 14}
+        - {x: 79, y: 12}
+        - {x: 83, y: 49}
+        - {x: 122, y: 136}
+        - {x: 179, y: 170}
+        - {x: 173, y: 233}
+        - {x: 113, y: 263}
+        - {x: 148, y: 355}
+        - {x: 155, y: 586}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f0179f07c59ab4091e507bb7539303
+      internalID: 1229877554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-SpikeyTrees-85448691_7
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 3
+        width: 493
+        height: 1066
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -229, y: 488.5}
+        - {x: -187, y: 344.5}
+        - {x: -174.5, y: 190}
+        - {x: -176, y: 73.5}
+        - {x: -235.5, y: 67}
+        - {x: -232.5, y: -17}
+        - {x: -124.5, y: -54}
+        - {x: -130.5, y: -124}
+        - {x: -214, y: -176.5}
+        - {x: -165, y: -250}
+        - {x: -200.5, y: -317}
+        - {x: -158, y: -533.5}
+        - {x: 129, y: -533.5}
+        - {x: 143, y: -413.5}
+        - {x: 170.5, y: -285}
+        - {x: 122.5, y: -282}
+        - {x: 120.5, y: -248}
+        - {x: 135.5, y: -196}
+        - {x: 222.5, y: -100}
+        - {x: 132, y: -37.5}
+        - {x: 132.5, y: 153}
+        - {x: 186.5, y: 298}
+        - {x: 178, y: 450.5}
+        - {x: 229, y: 494.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f6c4b71cd841446b034153779dcc22
+      internalID: -1620516046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-SpikeyTrees-85448691_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 457
+        height: 1205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.5, y: 566.5}
+        - {x: -161.5, y: 223.5}
+        - {x: -95.5, y: 187.5}
+        - {x: -198.5, y: 34.5}
+        - {x: -202.5, y: -11.5}
+        - {x: -118.5, y: -18.5}
+        - {x: -167.5, y: -109.5}
+        - {x: -132.5, y: -218.5}
+        - {x: -87.5, y: -308.5}
+        - {x: -169.5, y: -427.5}
+        - {x: -95.5, y: -500.5}
+        - {x: -130.5, y: -602.5}
+        - {x: 206.5, y: -602.5}
+        - {x: 228.5, y: -291.5}
+        - {x: 220.5, y: 210.5}
+        - {x: 122.5, y: 251.5}
+        - {x: 131.5, y: 396.5}
+        - {x: 82.5, y: 440.5}
+        - {x: 80.5, y: 574.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2165cf9ea3d0d404682c51c01a409911
+      internalID: 1201451711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-SpikeyTrees-85448691_5
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 0
+        width: 378
+        height: 1094
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 547}
+        - {x: -115, y: 282}
+        - {x: -165, y: 138}
+        - {x: -121, y: -71}
+        - {x: -78, y: -112}
+        - {x: -118, y: -152}
+        - {x: -165, y: -250}
+        - {x: -179, y: -291}
+        - {x: -135, y: -290}
+        - {x: -158, y: -547}
+        - {x: 189, y: -547}
+        - {x: 164, y: -413}
+        - {x: 189, y: -17}
+        - {x: 150, y: 169}
+        - {x: 120, y: 547}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618b81365cc8bf542b5d533148cbe9fc
+      internalID: 1173210445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-SpikeyTrees-85448691_8
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1033
+        width: 481
+        height: 688
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 153.5, y: 193}
+        - {x: 136.5, y: 169}
+        - {x: 114.5, y: 157}
+        - {x: 114.5, y: 196}
+        - {x: 99.5, y: 263}
+        - {x: 79.5, y: 322}
+        - {x: -90.5, y: 334}
+        - {x: -164.5, y: 334}
+        - {x: -229.5, y: 210}
+        - {x: -224.5, y: 108}
+        - {x: -193.5, y: -44}
+        - {x: -181.5, y: -241}
+        - {x: -137.5, y: -344}
+        - {x: 219.5, y: -344}
+        - {x: 219.5, y: 175}
+        - {x: 166.5, y: 210}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb591c29d46a9b40a2c5f63667cc64a
+      internalID: 636315126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-2048x2048-Crunch-SpikeyTrees-85448691_4: 1201451711
+      sactx-2048x2048-Crunch-SpikeyTrees-85448691_0: 1189153661
+      sactx-2048x2048-Crunch-SpikeyTrees-85448691_1: 459480352
+      sactx-2048x2048-Crunch-SpikeyTrees-85448691_3: -305940325
+      sactx-2048x2048-Crunch-SpikeyTrees-85448691_8: 636315126
+      sactx-2048x2048-Crunch-SpikeyTrees-85448691_6: 1229877554
+      sactx-2048x2048-Crunch-SpikeyTrees-85448691_7: -1620516046
+      sactx-2048x2048-Crunch-SpikeyTrees-85448691_5: 1173210445
+      sactx-2048x2048-Crunch-SpikeyTrees-85448691_2: 1366045994
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

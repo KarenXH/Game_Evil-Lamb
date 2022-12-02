@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 6180225c99b35cc4eaf66d927a526dd6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-1024x512-Crunch-HealingBay_Leaves-e97087df_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 346
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -173, y: -189.5}
+        - {x: -173, y: 189.5}
+        - {x: 62, y: 189.5}
+        - {x: 91, y: 141.5}
+        - {x: 148, y: 61.5}
+        - {x: 173, y: -9.5}
+        - {x: 173, y: -189.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6061a44808e8e5b419cb757553c7398f
+      internalID: -651406834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1024x512-Crunch-HealingBay_Leaves-e97087df_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 204
+        width: 298
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: -131.5}
+        - {x: 57, y: -129.5}
+        - {x: 29, y: -151.5}
+        - {x: 0, y: -151.5}
+        - {x: -43, y: -97.5}
+        - {x: -115, y: 5.5}
+        - {x: -149, y: 151.5}
+        - {x: 149, y: 151.5}
+        - {x: 149, y: -65.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cadd3adebf9b0b4484753fd9e1d2eba
+      internalID: 1512731323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1024x512-Crunch-HealingBay_Leaves-e97087df_2
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 164
+        width: 230
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdf5feb7aedec647b021084e40e1687
+      internalID: 1630163112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1024x512-Crunch-HealingBay_Leaves-e97087df_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 240
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120, y: -138}
+        - {x: -120, y: -23}
+        - {x: -87, y: 55}
+        - {x: -62, y: 79}
+        - {x: -17, y: 96}
+        - {x: 1, y: 138}
+        - {x: 77, y: 138}
+        - {x: 92, y: 67}
+        - {x: 120, y: 14}
+        - {x: 120, y: -138}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553e82ed72d41a540a1593bff239e6e0
+      internalID: -479060375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-1024x512-Crunch-HealingBay_Leaves-e97087df_0: -651406834
+      sactx-1024x512-Crunch-HealingBay_Leaves-e97087df_1: 1512731323
+      sactx-1024x512-Crunch-HealingBay_Leaves-e97087df_2: 1630163112
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

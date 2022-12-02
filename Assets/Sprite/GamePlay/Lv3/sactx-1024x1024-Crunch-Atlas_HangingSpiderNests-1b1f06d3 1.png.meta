@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 6ffba95c95136a04a955afa2ba69f4b5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-1024x1024-Crunch-Atlas_HangingSpiderNests-1b1f06d3 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 276
+        height: 956
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138, y: -478}
+        - {x: -138, y: 478}
+        - {x: 26, y: 478}
+        - {x: 24, y: 260}
+        - {x: 21, y: -73}
+        - {x: 100, y: -85}
+        - {x: 106, y: -238}
+        - {x: 138, y: -291}
+        - {x: 138, y: -478}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e27bea442101f4485687890df34356
+      internalID: 926109826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1024x1024-Crunch-Atlas_HangingSpiderNests-1b1f06d3 1_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 250
+        height: 950
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -87}
+        - {x: 26, y: -277}
+        - {x: 29, y: -369}
+        - {x: 31, y: -475}
+        - {x: -16, y: -475}
+        - {x: -20, y: -429}
+        - {x: -13, y: -285}
+        - {x: -41, y: -87}
+        - {x: -125, y: 129}
+        - {x: -125, y: 318}
+        - {x: -101, y: 475}
+        - {x: 101, y: 475}
+        - {x: 125, y: 363}
+        - {x: 125, y: 141}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6bab52667493641b3d8bd7eb2378ad
+      internalID: 2017204952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1024x1024-Crunch-Atlas_HangingSpiderNests-1b1f06d3 1_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 226
+        height: 832
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113, y: -416}
+        - {x: -113, y: -217}
+        - {x: -70, y: -125}
+        - {x: -33, y: 99}
+        - {x: -16, y: 416}
+        - {x: 21, y: 416}
+        - {x: 24, y: 260}
+        - {x: 52, y: 147}
+        - {x: 78, y: -8}
+        - {x: 100, y: -85}
+        - {x: 106, y: -238}
+        - {x: 113, y: -291}
+        - {x: 113, y: -416}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f35d6f3105233947a7dea3a03e7b2b9
+      internalID: 438074996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1024x1024-Crunch-Atlas_HangingSpiderNests-1b1f06d3 1_3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 11
+        width: 195
+        height: 911
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: 67.5}
+        - {x: 60.5, y: -183.5}
+        - {x: 33.5, y: -272.5}
+        - {x: 35.5, y: -369.5}
+        - {x: 38.5, y: -455.5}
+        - {x: -4.5, y: -455.5}
+        - {x: -6.5, y: -404.5}
+        - {x: -5.5, y: -260.5}
+        - {x: -34.5, y: 87.5}
+        - {x: -97.5, y: 177.5}
+        - {x: -97.5, y: 318}
+        - {x: -97.5, y: 455.5}
+        - {x: 97.5, y: 455.5}
+        - {x: 97.5, y: 363}
+        - {x: 97.5, y: 163.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9620c405e086e614187e152cf0772a48
+      internalID: -273667703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1024x1024-Crunch-Atlas_HangingSpiderNests-1b1f06d3 1_4
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 0
+        width: 185
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.5, y: -450}
+        - {x: -92.5, y: -217}
+        - {x: -70, y: -125}
+        - {x: -36.5, y: 99}
+        - {x: -19.5, y: 450}
+        - {x: 21.5, y: 450}
+        - {x: 20.5, y: 258}
+        - {x: 52, y: 147}
+        - {x: 56.5, y: -7}
+        - {x: 71.5, y: -87}
+        - {x: 92.5, y: -238}
+        - {x: 92.5, y: -291}
+        - {x: 92.5, y: -450}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9fa5400499d3448ba3a3c50b4369a3
+      internalID: -1892544449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1024x1024-Crunch-Atlas_HangingSpiderNests-1b1f06d3 1_5
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 51
+        width: 187
+        height: 899
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: 74.5}
+        - {x: 40.5, y: -142.5}
+        - {x: 22.5, y: -258.5}
+        - {x: 12.5, y: -354.5}
+        - {x: 14.5, y: -449.5}
+        - {x: -23.5, y: -449.5}
+        - {x: -24.5, y: -344.5}
+        - {x: -25.5, y: -215.5}
+        - {x: -42.5, y: 72.5}
+        - {x: -93.5, y: 177.5}
+        - {x: -93.5, y: 318}
+        - {x: -93.5, y: 449.5}
+        - {x: 93.5, y: 449.5}
+        - {x: 93.5, y: 363}
+        - {x: 81.5, y: 165.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a813b0835b2881408a1c7328acdbfff
+      internalID: -1696107350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1024x1024-Crunch-Atlas_HangingSpiderNests-1b1f06d3 1_6
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 182
+        height: 825
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91, y: -412.5}
+        - {x: -91, y: -227.5}
+        - {x: -54, y: -154.5}
+        - {x: -33, y: 99}
+        - {x: -11, y: 412.5}
+        - {x: 25, y: 412.5}
+        - {x: 57, y: 408.5}
+        - {x: 52, y: 147}
+        - {x: 54, y: 0.5}
+        - {x: 37, y: -105.5}
+        - {x: 91, y: -219.5}
+        - {x: 91, y: -412.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfa7f176e071ae43948ad9d784a43da
+      internalID: 1748759520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-1024x1024-Crunch-Atlas_HangingSpiderNests-1b1f06d3 1_6: 1748759520
+      sactx-1024x1024-Crunch-Atlas_HangingSpiderNests-1b1f06d3 1_2: 438074996
+      sactx-1024x1024-Crunch-Atlas_HangingSpiderNests-1b1f06d3 1_3: -273667703
+      sactx-1024x1024-Crunch-Atlas_HangingSpiderNests-1b1f06d3 1_0: 926109826
+      sactx-1024x1024-Crunch-Atlas_HangingSpiderNests-1b1f06d3 1_5: -1696107350
+      sactx-1024x1024-Crunch-Atlas_HangingSpiderNests-1b1f06d3 1_4: -1892544449
+      sactx-1024x1024-Crunch-Atlas_HangingSpiderNests-1b1f06d3 1_1: 2017204952
+      sactx-1024x1024-Crunch-Atlas_HangingSpiderNests-1b1f06d3 1_7: 1570754575
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

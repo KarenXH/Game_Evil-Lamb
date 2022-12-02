@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 766b65d3f8a4a3943ad08eabaa28bf83
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-4096x2048-Crunch-DungeonDoors-0f897f47_4
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 858
+        width: 1021
+        height: 1190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -431.5, y: 213}
+        - {x: -411.5, y: 66}
+        - {x: -403.5, y: -106}
+        - {x: -340.5, y: -190}
+        - {x: -260.5, y: -343}
+        - {x: -120.5, y: -473}
+        - {x: -80.5, y: -497}
+        - {x: 4.5, y: -583}
+        - {x: 412.5, y: -101.5}
+        - {x: 412.5, y: -12.5}
+        - {x: 454.5, y: 220}
+        - {x: 510.5, y: 595}
+        - {x: -510.5, y: 595}
+        - {x: -510.5, y: 357}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22591d9ab51246946ad34e16e720fea2
+      internalID: -541008079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4096x2048-Crunch-DungeonDoors-0f897f47_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1057
+        height: 1165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -528.5, y: 103}
+        - {x: -528.5, y: -582.5}
+        - {x: 528.5, y: -582.5}
+        - {x: 497.5, y: -101.5}
+        - {x: 444.5, y: -12.5}
+        - {x: 359.5, y: 210.5}
+        - {x: 91, y: 582.5}
+        - {x: -55, y: 582.5}
+        - {x: -417, y: 379}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a04360c406da74bbedc025b34ceed1
+      internalID: -762188314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4096x2048-Crunch-DungeonDoors-0f897f47_8
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 228
+        width: 935
+        height: 1070
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -467.5, y: 133}
+        - {x: -362.5, y: -111}
+        - {x: -311.5, y: -201}
+        - {x: -285.5, y: -251}
+        - {x: -193.5, y: -447}
+        - {x: -14.5, y: -535}
+        - {x: 183.5, y: -396}
+        - {x: 289.5, y: -211}
+        - {x: 349.5, y: -56}
+        - {x: 430.5, y: 148}
+        - {x: 445.5, y: 343}
+        - {x: 431.5, y: 458}
+        - {x: 433.5, y: 498}
+        - {x: 384.5, y: 504}
+        - {x: 344.5, y: 535}
+        - {x: -467.5, y: 535}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b4ad00ce6df694f8132f04dd0023ce
+      internalID: -785163568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4096x2048-Crunch-DungeonDoors-0f897f47_9
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 0
+        width: 806
+        height: 949
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -270, y: 160.5}
+        - {x: -333.5, y: 5}
+        - {x: -366.5, y: -121}
+        - {x: -403, y: -246}
+        - {x: -403, y: -474.5}
+        - {x: 403, y: -474.5}
+        - {x: 403, y: -240.5}
+        - {x: 344, y: -64.5}
+        - {x: 298, y: 97.5}
+        - {x: 254, y: 222.5}
+        - {x: 91, y: 474.5}
+        - {x: -55, y: 474.5}
+        - {x: -200, y: 302.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43df89c6abb049449222ec92a489cd6
+      internalID: -1546936695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4096x2048-Crunch-DungeonDoors-0f897f47_10
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 0
+        width: 825
+        height: 952
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -288.5, y: 166}
+        - {x: -333.5, y: 5}
+        - {x: -366.5, y: -121}
+        - {x: -412.5, y: -246}
+        - {x: -412.5, y: -476}
+        - {x: 412.5, y: -476}
+        - {x: 412.5, y: -101.5}
+        - {x: 412.5, y: -12.5}
+        - {x: 359.5, y: 210.5}
+        - {x: 91, y: 476}
+        - {x: -55, y: 476}
+        - {x: -211.5, y: 312}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8864ff84a091f734d888aa2d21296a76
+      internalID: -1842504679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-4096x2048-Crunch-DungeonDoors-0f897f47_11
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 0
+        width: 803
+        height: 952
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -401.5, y: 319}
+        - {x: -376.5, y: 204}
+        - {x: -341.5, y: 57}
+        - {x: -299.5, y: -90}
+        - {x: -248.5, y: -241}
+        - {x: -100.5, y: -416}
+        - {x: -57.5, y: -457}
+        - {x: 4.5, y: -476}
+        - {x: 183.5, y: -396}
+        - {x: 266.5, y: -207}
+        - {x: 306.5, y: -59}
+        - {x: 341.5, y: 67}
+        - {x: 401.5, y: 220}
+        - {x: 401.5, y: 476}
+        - {x: -401.5, y: 476}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db2361afc049df44b8dd02ac9242d8b
+      internalID: -884467869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 651760231e89ee240985d3c5ca593460
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-4096x2048-Crunch-DungeonDoors-0f897f47_11: -884467869
+      sactx-4096x2048-Crunch-DungeonDoors-0f897f47_3: -27007875
+      sactx-4096x2048-Crunch-DungeonDoors-0f897f47_7: -762188314
+      sactx-4096x2048-Crunch-DungeonDoors-0f897f47_9: -1546936695
+      sactx-4096x2048-Crunch-DungeonDoors-0f897f47_1: 534662405
+      sactx-4096x2048-Crunch-DungeonDoors-0f897f47_10: -1842504679
+      sactx-4096x2048-Crunch-DungeonDoors-0f897f47_8: -785163568
+      sactx-4096x2048-Crunch-DungeonDoors-0f897f47_4: -541008079
+      sactx-4096x2048-Crunch-DungeonDoors-0f897f47_5: -834263031
+      sactx-4096x2048-Crunch-DungeonDoors-0f897f47_6: 405996339
+      sactx-4096x2048-Crunch-DungeonDoors-0f897f47_2: -123885271
+      sactx-4096x2048-Crunch-DungeonDoors-0f897f47_0: 1389666421
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

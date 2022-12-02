@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: bc0caa84cdeb6c342b29fb63c15b0fc7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 173
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.5, y: -64}
+        - {x: -86.5, y: 64}
+        - {x: 86.5, y: 64}
+        - {x: 86.5, y: -55}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fc92a39c613db4ab6e18eab47653c1
+      internalID: -690277574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 680
+        width: 249
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -99.5}
+        - {x: -63.5, y: -42.5}
+        - {x: -124.5, y: 17.5}
+        - {x: -124.5, y: 78.5}
+        - {x: -58.5, y: 91.5}
+        - {x: -17.5, y: 99.5}
+        - {x: 124.5, y: 99.5}
+        - {x: 124.5, y: -99.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393b1bb7009281a4db2d0840a728050d
+      internalID: -1234228156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 307
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131.5, y: -122}
+        - {x: 46.5, y: -121}
+        - {x: -51.5, y: -122}
+        - {x: -131.5, y: -122}
+        - {x: -153.5, y: -122}
+        - {x: -153.5, y: -51}
+        - {x: -115.5, y: 28}
+        - {x: -67.5, y: 122}
+        - {x: 0.5, y: 122}
+        - {x: 72.5, y: 43}
+        - {x: 153.5, y: -57}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fd56177c69e8d4c8ad1734d4542435
+      internalID: -62336324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 226
+        width: 426
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -142}
+        - {x: -113, y: -69}
+        - {x: -213, y: 58}
+        - {x: -213, y: 124}
+        - {x: 213, y: 142}
+        - {x: 213, y: -142}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d052e1e72c48a741915453390c126c2
+      internalID: -2022977852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 364
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -15.5}
+        - {x: -28, y: 15.5}
+        - {x: 28, y: 15.5}
+        - {x: 28, y: -15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a37b7386c7eb954fade4a05ba8051bb
+      internalID: 2117588910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 327
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: -17}
+        - {x: -29.5, y: 17}
+        - {x: 29.5, y: 17}
+        - {x: 29.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd6c4ed1c4a51e4585a41924d6505b7
+      internalID: 1138206757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 85
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: -18.5}
+        - {x: -42.5, y: 18.5}
+        - {x: 42.5, y: 18.5}
+        - {x: 42.5, y: -16.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d7f20479971e54893f0863bafdccc9
+      internalID: -1754612050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 431
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -215.5, y: -134.5}
+        - {x: -215.5, y: -102.5}
+        - {x: -181.5, y: -68.5}
+        - {x: -135.5, y: -19.5}
+        - {x: -115.5, y: 41.5}
+        - {x: -86.5, y: 85.5}
+        - {x: -64.5, y: 126.5}
+        - {x: -22.5, y: 134.5}
+        - {x: 38.5, y: 93.5}
+        - {x: 70.5, y: 43.5}
+        - {x: 101.5, y: -12.5}
+        - {x: 155.5, y: -62.5}
+        - {x: 215.5, y: -105.5}
+        - {x: 215.5, y: -134.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b580bfd00d366e4d9c45e83a4c6d144
+      internalID: -1148923606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 141
+        width: 128
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -50}
+        - {x: -64, y: -53}
+        - {x: -64, y: 40}
+        - {x: -36.352005, y: 43.887985}
+        - {x: -10, y: 45}
+        - {x: 62, y: 41}
+        - {x: 34, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17284ed0fc5b7645a8f35e9d01c247f
+      internalID: -612556526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 61
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -18}
+        - {x: -25.5, y: 18}
+        - {x: 25.5, y: 18}
+        - {x: 25.5, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d96ad6e9bd3fd46bd3913032e1d8b4
+      internalID: -1877713621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 163
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -26}
+        - {x: -32, y: 26}
+        - {x: 32, y: 26}
+        - {x: 21, y: -22}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42b9540ab768c74fb668c8f1521257f
+      internalID: 1547813516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 119
+        width: 88
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -26}
+        - {x: -44, y: 12}
+        - {x: 44, y: 26}
+        - {x: 44, y: -26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6a5178bdc148f4090aa8915411cbd1
+      internalID: 615540404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -31.5}
+        - {x: -40, y: 18.5}
+        - {x: 40, y: 20.5}
+        - {x: 17, y: -26.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0697a796f1746ca42a9c8a20fc1d40d6
+      internalID: 1382600146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 230
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.048446655, y: -18.302551}
+        - {x: -29, y: -9.5}
+        - {x: -20, y: 6.5}
+        - {x: -14, y: 18.5}
+        - {x: 26, y: 14.5}
+        - {x: 30, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d67ecb08738b34889d967a7b82c75e
+      internalID: -606775479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: -13.5}
+        - {x: 16.5, y: -23.5}
+        - {x: 2.5, y: -21.5}
+        - {x: -29.5, y: -20.5}
+        - {x: -41.5, y: -19.5}
+        - {x: -41.5, y: 12.5}
+        - {x: 41.5, y: 19.5}
+        - {x: 39.5, y: -1.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c25948da51eb14b862fa03074f43ae
+      internalID: 484864938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_3: -2022977852
+      sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_11: 615540404
+      sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_9: -1877713621
+      sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_1: -1234228156
+      sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_0: -690277574
+      sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_2: -62336324
+      sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_8: -612556526
+      sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_13: -606775479
+      sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_10: 1547813516
+      sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_4: 2117588910
+      sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_14: 484864938
+      sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_6: -1754612050
+      sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_12: 1382600146
+      sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_5: 1138206757
+      sactx-512x1024-Crunch-Atlas_SpiderNest-aa199cad_7: -1148923606
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

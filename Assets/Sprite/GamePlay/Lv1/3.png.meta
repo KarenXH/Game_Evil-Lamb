@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: aff7b5ddf89a3fa49b0cf6a76ba000a8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-WormNests-bf3a301c_4
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 614
+        width: 948
+        height: 799
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -474, y: 88.5}
+        - {x: -474, y: -4.5}
+        - {x: -474, y: -51.5}
+        - {x: -474, y: -321.5}
+        - {x: -435, y: -399.5}
+        - {x: 474, y: -399.5}
+        - {x: 474, y: -17.5}
+        - {x: 474, y: 177.5}
+        - {x: 395, y: 270.5}
+        - {x: 272, y: 270.5}
+        - {x: 171, y: 321.5}
+        - {x: 153, y: 353.5}
+        - {x: 80, y: 399.5}
+        - {x: -307, y: 399.5}
+        - {x: -474, y: 399.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa98e6718a325c248bfdf816870c4259
+      internalID: 704098954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-WormNests-bf3a301c_5
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1300
+        width: 836
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -401, y: 35}
+        - {x: -304, y: -105}
+        - {x: -214, y: -195}
+        - {x: -147, y: -256}
+        - {x: -91, y: -290}
+        - {x: -56, y: -335}
+        - {x: -11, y: -354}
+        - {x: 0, y: -370}
+        - {x: 418, y: -370}
+        - {x: 418, y: -17.5}
+        - {x: 418, y: 177.5}
+        - {x: 418, y: 370}
+        - {x: -307, y: 370}
+        - {x: -418, y: 370}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac6e66a017edf5418ecba4a7c50a5c8
+      internalID: 1954321543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-WormNests-bf3a301c_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1088
+        height: 832
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -544, y: 165}
+        - {x: -544, y: -416}
+        - {x: -67, y: -416}
+        - {x: 544, y: -416}
+        - {x: 544, y: -55}
+        - {x: 480, y: 129}
+        - {x: 387, y: 245}
+        - {x: 272, y: 270.5}
+        - {x: 171, y: 321.5}
+        - {x: 153, y: 353.5}
+        - {x: 80, y: 399.5}
+        - {x: -289, y: 396}
+        - {x: -468, y: 275}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4682ebee967e4f747a54799569a576e6
+      internalID: 2005936624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-Crunch-WormNests-bf3a301c_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 933
+        height: 941
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -466.5, y: 88.5}
+        - {x: -466.5, y: -321.5}
+        - {x: -435, y: -399.5}
+        - {x: -299.5, y: -454.5}
+        - {x: -210.5, y: -377.5}
+        - {x: -79.5, y: -344.5}
+        - {x: 131.5, y: -346.5}
+        - {x: 227.5, y: -406.5}
+        - {x: 404.5, y: -458.5}
+        - {x: 447.5, y: -336.5}
+        - {x: 444.5, y: -10.5}
+        - {x: 350.5, y: 153.5}
+        - {x: 352.5, y: 278.5}
+        - {x: 466.5, y: 470.5}
+        - {x: -466.5, y: 470.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7365856e64baf47a70ec5aa8724453
+      internalID: 677719648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 14547b64cda515948970aace7c96277f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_10: 2005936624
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_7: 215705593
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_11: 1248843402
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_0: 677719648
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_18: -1666212233
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_13: 611255594
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_14: -709230876
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_4: 704098954
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_17: -4383630
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_1: 634414929
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_2: 1732814026
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_9: 1862246120
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_16: 1223576513
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_6: 383372798
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_5: 1954321543
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_12: -1991566771
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_15: 1458922589
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_3: -453684636
+      sactx-2048x2048-Crunch-WormNests-bf3a301c_8: 891495530
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

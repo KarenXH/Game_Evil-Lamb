@@ -1,0 +1,1805 @@
+fileFormatVersion: 2
+guid: ac6d60487e3753144b91c890cf6ee4f5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fire
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2448
+        width: 438
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442c8c30e0c1c0845b2222815a24eb88
+      internalID: 452139518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2869
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd2de3a34b807148bddcf51b8dbbd1b
+      internalID: 408915161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2455
+        width: 418
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cdc98fb66b7fe44a7a2a355f015c90
+      internalID: 314224956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire4
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 2588
+        width: 431
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4984a81de240c745987fd5a9cb678cf
+      internalID: -1045546953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2682
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560f564c38ffe984c804a79dfdd5de7b
+      internalID: -645382303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire6
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 2126
+        width: 428
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662f5267df7641d49a68165e3c3ecf19
+      internalID: 1251013317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_7
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 2469
+        width: 140
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f652553e4f3cf842b9489d9665e8edc
+      internalID: -1414712079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire9
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 2124
+        width: 449
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce651152f21fbbf469a6390f4d441cc1
+      internalID: -1828653959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_11
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 2461
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1892234907f9df248a7b13fc86678540
+      internalID: 253861205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire8
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 2057
+        width: 404
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b983dc0b454e8ae4d837e6c557833a5c
+      internalID: 1509545967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2027
+        width: 464
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28eb9a96f210bd44f8452afd786bbaf7
+      internalID: -934042463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire5
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2029
+        width: 414
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532d55da8294eef4dadb6e4dc1640ed7
+      internalID: 1709393236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2043
+        width: 221
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb9878bbe625c3439fb77282f8880cb
+      internalID: -1370236562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ring
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 2029
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f929e8cfc5820804398096dc69d892cf
+      internalID: -442482234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_28
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 2039
+        width: 142
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a00d3dda53a4a458a7752a11b85615
+      internalID: -1311445380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_29
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1679
+        width: 11
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8de5ae4914d17419c6e82fa7993e0a
+      internalID: 1755609549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_30
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1987
+        width: 9
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eff044fa1a77e646993e146546372b6
+      internalID: -1665431280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_31
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 1999
+        width: 8
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a25257e5be2ef4b936b5904064d170
+      internalID: 2107808327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_32
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2003
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc474c17b650b2f48babecb32363c454
+      internalID: -1069473051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_35
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 2033
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf67ecd254312fe4a992840f0a1b22f9
+      internalID: 1060233475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1081
+        width: 1117
+        height: 950
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56719201151d1094981e2200111a0ca0
+      internalID: 1486443764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LambMain
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1083
+        width: 740
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433c559b5c4b5c54b9aa468ee882861e
+      internalID: 1552580848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_38
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 1915
+        width: 136
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88028a443ab33a9479f3f5e1734e4799
+      internalID: 214567119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_39
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1975
+        width: 162
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92f5245fe22c3f4aa28faf54e02a0a7
+      internalID: 1202443584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_40
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 1937
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac5cd9a65ae98645a9fe10d572dbfba
+      internalID: 136588088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_41
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1915
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4377f6fe77deb4cbf9bed479e80ce7
+      internalID: 767976457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire10
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 1580
+        width: 459
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506566130c0035544ac39a4650f89ba8
+      internalID: -1887450480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_44
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1721
+        width: 11
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d98b7eb579cc7843945dcf505e1c3c2
+      internalID: -1650202352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_45
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 1760
+        width: 12
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511a2208e8a85ec4e8caa51638fc481f
+      internalID: 1216471546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_46
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1689
+        width: 10
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c032375bbcc3c04189d90c936f7dfb6
+      internalID: -490001330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_47
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1714
+        width: 10
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1573c491441c9f94b915e95010b64575
+      internalID: -1872733817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_49
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1805
+        width: 10
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33191690d65711342b4470a3a8c968a6
+      internalID: 1684277258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_50
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 1767
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4106d252ac4d440488de2846f876d3e2
+      internalID: 171267945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_52
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 1691
+        width: 11
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b6787322e27164b963983e9cad7cd0
+      internalID: -577413772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_54
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1559
+        width: 10
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebfcb74dece62e4883727d36b6928eb
+      internalID: 961073244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_56
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1499
+        width: 10
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1037f6d439cb4424196fe9579a435abf
+      internalID: -1412041982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_57
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 1495
+        width: 10
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09bfa674d5f2cb48887137a12d877ae
+      internalID: -1192615681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_58
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 1551
+        width: 166
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb7f8c55d7f40d4487a5dc7f51b7f6d
+      internalID: 770882732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_59
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 1581
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91404cef2a4c49f45966b6128b61fea3
+      internalID: -228476690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_60
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1417
+        width: 9
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c283d0bb1524e9a40a096c159866d2c8
+      internalID: 1996431260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aochoang
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 1141
+        width: 224
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a505278a7dacfa14a80e3af0f717482b
+      internalID: 1469902576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_64
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 1495
+        width: 8
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f80de05c0c02d44b2d421dbb722c64
+      internalID: -471655000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_65
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 1451
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ad50191933cc94f9a13f1618d44eda
+      internalID: 2112497619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire11
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 1056
+        width: 500
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d2ccb22a991b74394d4370006de106
+      internalID: -181505022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_67
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 1417
+        width: 162
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02db727c5426ab445803dd1862c9c21d
+      internalID: 1447461234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 18
+        width: 1418
+        height: 1397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653c44073ac478d4794979e32632cb08
+      internalID: -1644468204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood2
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 942
+        width: 87
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3288d0a855590fa41be2a074e749fc05
+      internalID: 79549793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_77
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 968
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f4c1934bcd30b4ea171fdcbc2bcc02
+      internalID: 1528524749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_78
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 1038
+        width: 392
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9462de7476c3d643875afd84e1dd468
+      internalID: -1120416357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_82
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 933
+        width: 82
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3b3387e74c8d140b36792033eaa248
+      internalID: 520555197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_85
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 881
+        width: 132
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3cbafc61d911e44af9344a0ae27808
+      internalID: 1513421723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_86
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 883
+        width: 238
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e395dddadf9e3fb4eb0b252dbb162e6d
+      internalID: -1041209450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyehat
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 814
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9835f465334ae4bb3d39d57996ddc0
+      internalID: -1964394093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sung1
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 605
+        width: 138
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b86ce159b0a876459de0755ca5a65c2
+      internalID: 289749686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 1674
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c1bb1ef052631499af49cb74761ba6
+      internalID: 413749938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_103
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 629
+        width: 65
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3137bbc486ba023478bd521cbf3f62bc
+      internalID: -1004589441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_104
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 620
+        width: 182
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8331eaf9523849e4fbcd3a69de16047c
+      internalID: 1322975043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_105
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 573
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7e47f0055548d4abc807213d372440
+      internalID: 704293465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_106
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 531
+        width: 92
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104012181f14b65418ba7fa30ebe38f5
+      internalID: 1546939145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_107
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 529
+        width: 98
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba050b6acafe284ca1aeb472e568c0f
+      internalID: 1824753900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_110
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 335
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a936269c03bc6f44ea29057b6871ca53
+      internalID: 589295938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sung2
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 335
+        width: 132
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b3170cb1d26c24684e08f828dbbef3
+      internalID: -1208738713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 217
+        width: 141
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018d873dd81380c4a90d5b6f53ec0d35
+      internalID: -413021198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_113
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 209
+        width: 140
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9117939d2209736458789c804916c0bd
+      internalID: -1819936462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_114
+      rect:
+        serializedVersion: 2
+        x: 3692
+        y: 197
+        width: 108
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a0357d12db33a4c8d97009495815e2
+      internalID: 1653317623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_115
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 164
+        width: 370
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752999bb4dc553f46a9efc8ba568973d
+      internalID: -1575681333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_116
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 127
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b097aadfb21eb3548aac87c381ff88ae
+      internalID: -539396268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ey
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 0
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8a7bc73a2e56642a36b9744e14aa8b
+      internalID: -1291356277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_121
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 76
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f234dac3119fc947aa0ca330a0f2e9a
+      internalID: 48003994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_122
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 2
+        width: 151
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1ac53b098893146b36cf5d2fd1ab47
+      internalID: -1653091914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burn
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 0
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f7d3a2981df2f4c8912ca68d85207e
+      internalID: -1474784382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyehat2
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 685
+        width: 172
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4486501c0c7159d43a54cd41d32e1909
+      internalID: -1848216730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1743
+        width: 214
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7a0061f7c148343a91491de452fab0
+      internalID: 476951664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire7
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1703
+        width: 447
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe50ffae94ea094685665144ca48149
+      internalID: 206614187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 360abd5ee666b63409209f9aa4619e26
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lamb_64: -471655000
+      Lamb_77: 1528524749
+      Lamb_78: -1120416357
+      Lamb_81: -88795587
+      Lamb_7: -1414712079
+      fire5: 1709393236
+      blood2: 79549793
+      Lamb_30: -1665431280
+      Lamb_80: 1091224385
+      Lamb_42: -1137049323
+      Lamb_41: 767976457
+      Lamb_118: -638199761
+      Lamb_89: 1855911265
+      Lamb_100: 1737233877
+      Lamb_26: 563332165
+      Lamb_18: 1974913172
+      Lamb_67: 1447461234
+      Lamb_117: -1398044631
+      Lamb_35: 1060233475
+      Lamb_97: 1177250874
+      eye: -413021198
+      Lamb_11: 253861205
+      Lamb_115: -1575681333
+      Lamb_54: 961073244
+      ey: -1291356277
+      Lamb_32: -1069473051
+      Lamb_106: 1546939145
+      Lamb_94: 1108618952
+      Lamb_51: -1364252138
+      Lamb_79: 761601205
+      fire9: -1828653959
+      Lamb_20: -1921866628
+      fire11: -181505022
+      fire8: 1509545967
+      Lamb_4: -645382303
+      fire10: -1887450480
+      Lamb_73: -474932239
+      Lamb_24: 1011948113
+      Lamb_116: -539396268
+      Lamb_109: -1812048640
+      Lamb_44: -1650202352
+      Lamb_92: -39812768
+      Lamb_91: 1103939825
+      Lamb_59: -228476690
+      Lamb_21: 285813829
+      Lamb_62: 1925679782
+      Lamb_36: 1486443764
+      Lamb_123: -301183642
+      fire: 452139518
+      Lamb_75: 1756032236
+      Lamb_23: -973682220
+      Lamb_39: 1202443584
+      Lamb_27: -1662337138
+      Lamb_49: 1684277258
+      Lamb_38: 214567119
+      Lamb_50: 171267945
+      Lamb_69: -542205211
+      Lamb_121: 48003994
+      Lamb_46: -490001330
+      Lamb_70: -251991481
+      Lamb_93: 1933729025
+      Lamb_29: 1755609549
+      hat: 476951664
+      Lamb_124: -2130361662
+      Lamb_113: -1819936462
+      Lamb_65: 2112497619
+      Lamb_95: 1963003388
+      sung2: -1208738713
+      Lamb_48: -1738743027
+      Lamb_56: -1412041982
+      Lamb_84: -1926857672
+      Lamb_114: 1653317623
+      fire4: -1045546953
+      Lamb_104: 1322975043
+      Lamb_107: 1824753900
+      Lamb_45: 1216471546
+      Lamb_60: 1996431260
+      Lamb_125: 1726815908
+      Lamb_85: 1513421723
+      Lamb_88: -760762748
+      Lamb_96: 1205175345
+      Lamb_53: -1537953244
+      Lamb_122: -1653091914
+      blood: -1370236562
+      Lamb_105: 704293465
+      Lamb_33: -2117738805
+      sung1: 289749686
+      Lamb_47: -1872733817
+      Lamb_103: -1004589441
+      Lamb_83: -552649594
+      Lamb_90: 687675607
+      Lamb_110: 589295938
+      Lamb_108: 347562306
+      Lamb_102: 1364330666
+      burn: -1474784382
+      Lamb_119: -596430287
+      Lamb_52: -577413772
+      Aochoang: 1469902576
+      Lamb_34: -590854421
+      Lamb_74: 2122744126
+      Lamb_71: -2098279335
+      ring: -442482234
+      fire2: 314224956
+      eyehat: -1964394093
+      Lamb_58: 770882732
+      Lamb_40: 136588088
+      fire6: 1251013317
+      Lamb_17: 366168993
+      Lamb_82: 520555197
+      Lamb_86: -1041209450
+      Lamb_68: 1199866806
+      Lamb_28: -1311445380
+      LambMain: 1552580848
+      Lamb_19: 84884367
+      Lamb_22: -818154847
+      magic: -1644468204
+      Lamb_57: -1192615681
+      fire3: -934042463
+      candle: 413749938
+      Lamb_1: 408915161
+      Lamb_55: -118618767
+      Lamb_10: -1572386519
+      Lamb_101: -1725623530
+      Lamb_61: 547704799
+      fire7: 206614187
+      Lamb_31: 2107808327
+      eyehat2: -1848216730
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

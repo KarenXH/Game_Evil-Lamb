@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 4149e75dd69b979478257a07b1c73399
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 543
+        width: 198
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868de445d774396468a107929998e807
+      internalID: -1177142190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 543
+        width: 203
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b83a273cfeccb4e8e6c06641188278
+      internalID: 726302601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 166
+        width: 93
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc02c56ba468544469b90f760ca1171b
+      internalID: -745201493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 173
+        width: 153
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fc59a234d13e844a409d518cf0ffcb
+      internalID: 1890224450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 176
+        width: 120
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4ae51326060f14ca72d21852d689f9
+      internalID: 1401335153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 165
+        width: 166
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb566d8c836bd0e41a7d26f39f8c4e1c
+      internalID: 500778168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 184
+        width: 140
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1559c618ec0e657489df58f1bbf5a876
+      internalID: -704911272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_7
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 184
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a149699c3927b2d4799c8b0f771c8252
+      internalID: -1039439003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 70
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc413398f022054db76242508a88ef4
+      internalID: -1533197946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 71
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3003f43560382048bb12a34343ed82f
+      internalID: 380202407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 76
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c670f2056f7e041b018256d3d5b007
+      internalID: 595648111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 80
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c618838bffe38b14089495026c198a48
+      internalID: 1997547325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_12
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 119
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0ac957bcc007640921b9942e38d2e5
+      internalID: -1279940709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_13
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 104
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0d4b32fe17fe74ba62f20e299ea473
+      internalID: -1984247406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_14
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 106
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e36f0f0557ef54cad2a9ea97493a3e
+      internalID: 1654436442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_15
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 112
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5f0eb7a060edb4691a0c0287b9027a
+      internalID: 1480168460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 72
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cb8313804729843a94c2e0679c5f0c
+      internalID: -1186185092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 72
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d73033147b14684caef19c1af7568bb
+      internalID: 1410165449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 79
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92f5d52307ff2245b50a2d71b8e2c92
+      internalID: -1532007446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 88
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059d5901c8871f94eb62304308a89cc6
+      internalID: 1338566058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_20
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 71
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf8379b9ce2b4a429982e45f1691e2c
+      internalID: 1937263807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_21
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 77
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61150f63a6cabdb4cbf80d8906ceef96
+      internalID: 1487045912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_22
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 55
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536bd4423b814924cb28b2839824f9df
+      internalID: 62853991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_23
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 63
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d02e107cee19418b9115b9385eb5c
+      internalID: 907590704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_24
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 68
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80496c9329cc434ab83dbbc9facc997
+      internalID: -148652714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RescueRoom_BreakableCrystals_25
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 62
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff61ebb8c4285d4cb9e840bd61f35f9
+      internalID: -808970766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RescueRoom_BreakableCrystals_21: 1487045912
+      RescueRoom_BreakableCrystals_2: -745201493
+      RescueRoom_BreakableCrystals_18: -1532007446
+      RescueRoom_BreakableCrystals_16: -1186185092
+      RescueRoom_BreakableCrystals_25: -808970766
+      RescueRoom_BreakableCrystals_8: -1533197946
+      RescueRoom_BreakableCrystals_10: 595648111
+      RescueRoom_BreakableCrystals_19: 1338566058
+      RescueRoom_BreakableCrystals_22: 62853991
+      RescueRoom_BreakableCrystals_24: -148652714
+      RescueRoom_BreakableCrystals_20: 1937263807
+      RescueRoom_BreakableCrystals_1: 726302601
+      RescueRoom_BreakableCrystals_4: 1401335153
+      RescueRoom_BreakableCrystals_11: 1997547325
+      RescueRoom_BreakableCrystals_14: 1654436442
+      RescueRoom_BreakableCrystals_6: -704911272
+      RescueRoom_BreakableCrystals_23: 907590704
+      RescueRoom_BreakableCrystals_3: 1890224450
+      RescueRoom_BreakableCrystals_7: -1039439003
+      RescueRoom_BreakableCrystals_9: 380202407
+      RescueRoom_BreakableCrystals_13: -1984247406
+      RescueRoom_BreakableCrystals_17: 1410165449
+      RescueRoom_BreakableCrystals_5: 500778168
+      RescueRoom_BreakableCrystals_0: -1177142190
+      RescueRoom_BreakableCrystals_12: -1279940709
+      RescueRoom_BreakableCrystals_15: 1480168460
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

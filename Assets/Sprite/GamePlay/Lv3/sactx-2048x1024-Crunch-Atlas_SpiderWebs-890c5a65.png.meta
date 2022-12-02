@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 08bdc354bbb860448a85bbe25c085fc8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-2048x1024-Crunch-Atlas_SpiderWebs-890c5a65_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 977
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -488.5, y: -293}
+        - {x: -488.5, y: 24}
+        - {x: -422.5, y: 79}
+        - {x: -350.5, y: 218}
+        - {x: -220.5, y: 293}
+        - {x: 159.5, y: 285}
+        - {x: 421.5, y: 88}
+        - {x: 488.5, y: -199}
+        - {x: 488.5, y: -260}
+        - {x: 427.5, y: -293}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf45bd5d2d17f048a7668d54bd1ff66
+      internalID: 1862824638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-Crunch-Atlas_SpiderWebs-890c5a65_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 256
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.5, y: -132}
+        - {x: -128, y: -132}
+        - {x: -128, y: 132}
+        - {x: 128, y: 132}
+        - {x: 128, y: 92}
+        - {x: 48.23062, y: 52.8349}
+        - {x: -4, y: 1}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ba42643d3ed2049b5c99988781d067
+      internalID: -1718693068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-Crunch-Atlas_SpiderWebs-890c5a65_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 246
+        width: 700
+        height: 614
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 292, y: -305}
+        - {x: 246, y: -185}
+        - {x: 13, y: 2}
+        - {x: -146, y: 127}
+        - {x: -350, y: 220}
+        - {x: -350, y: 307}
+        - {x: 350, y: 307}
+        - {x: 350, y: -307}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a932120ab4a7e2439db13040b2aaef3
+      internalID: -492556938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-Crunch-Atlas_SpiderWebs-890c5a65_3
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 0
+        width: 459
+        height: 845
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -229.5, y: -422.5}
+        - {x: -229.5, y: -413.5}
+        - {x: -185.5, y: -376.5}
+        - {x: -130.5, y: -282.5}
+        - {x: 28.5, y: 111.5}
+        - {x: 140.5, y: 312.5}
+        - {x: 197.5, y: 422.5}
+        - {x: 229.5, y: 422.5}
+        - {x: 229.5, y: -422.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b118b1ee978ed7c44a2bdde25667d3cc
+      internalID: -1534698457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x1024-Crunch-Atlas_SpiderWebs-890c5a65_4
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 283
+        width: 345
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.5, y: -243}
+        - {x: -172.5, y: -282}
+        - {x: -172.5, y: 282}
+        - {x: 172.5, y: 282}
+        - {x: 90.5, y: 78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553bacc8ab2b8a547a510ab1dfc4f8ce
+      internalID: 518458197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-2048x1024-Crunch-Atlas_SpiderWebs-890c5a65_2: -492556938
+      sactx-2048x1024-Crunch-Atlas_SpiderWebs-890c5a65_3: -1534698457
+      sactx-2048x1024-Crunch-Atlas_SpiderWebs-890c5a65_1: -1718693068
+      sactx-2048x1024-Crunch-Atlas_SpiderWebs-890c5a65_0: 1862824638
+      sactx-2048x1024-Crunch-Atlas_SpiderWebs-890c5a65_4: 518458197
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

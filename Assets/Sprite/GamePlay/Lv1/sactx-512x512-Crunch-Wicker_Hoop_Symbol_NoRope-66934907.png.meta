@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: d4e72a319f53ffd45a5c0425fda43395
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-512x512-Crunch-Wicker_Hoop_Symbol_NoRope-66934907_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 130
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 78.5}
+        - {x: 53, y: 97.5}
+        - {x: -6, y: 97.5}
+        - {x: -65, y: 39.5}
+        - {x: -65, y: -97.5}
+        - {x: -21, y: -97.5}
+        - {x: 35, y: -97.5}
+        - {x: 44, y: -43.5}
+        - {x: 65, y: -27.5}
+        - {x: 65, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7345a29e293e548b003384730f701a
+      internalID: 126076924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x512-Crunch-Wicker_Hoop_Symbol_NoRope-66934907_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 208
+        width: 145
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5999195, y: 0.4954722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.5, y: 64}
+        - {x: 39.5, y: 64}
+        - {x: -19.5, y: 64}
+        - {x: -43.5, y: 51}
+        - {x: -72.5, y: 19}
+        - {x: -72.5, y: -22}
+        - {x: -72.5, y: -64}
+        - {x: -20.5, y: -64}
+        - {x: 35, y: -61}
+        - {x: 52, y: -46}
+        - {x: 55.5, y: 9}
+        - {x: 72.5, y: 13}
+        - {x: 72.5, y: 25}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ce3833c20dbdf43a72b364b6b7a124
+      internalID: -940982101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x512-Crunch-Wicker_Hoop_Symbol_NoRope-66934907_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 335
+        width: 140
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 61}
+        - {x: 53, y: 61}
+        - {x: -6, y: 61}
+        - {x: -70, y: 61}
+        - {x: -70, y: 5}
+        - {x: -51, y: -19}
+        - {x: -51, y: -61}
+        - {x: -21, y: -61}
+        - {x: 35, y: -61}
+        - {x: 52, y: -46}
+        - {x: 70, y: -31}
+        - {x: 70, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94e24e3c611e30459506ce09c85ed52
+      internalID: -1570360749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x512-Crunch-Wicker_Hoop_Symbol_NoRope-66934907_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 190
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f032e0bb1306a694e836a319e54d9fe2
+      internalID: -152777174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x512-Crunch-Wicker_Hoop_Symbol_NoRope-66934907_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 182
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583c9a2ff88aea7479fd5ccab081d134
+      internalID: 1006964710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x512-Crunch-Wicker_Hoop_Symbol_NoRope-66934907_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 148
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35df130cfe4b99244b79d3f01bffdeb8
+      internalID: -704678419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-512x512-Crunch-Wicker_Hoop_Symbol_NoRope-66934907_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 127
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfdd72dd98b60a43bef2cde075c97a6
+      internalID: 474569469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7462d5cb4afee3e47ae5ce22c1ffb28e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-512x512-Crunch-Wicker_Hoop_Symbol_NoRope-66934907_0: 126076924
+      sactx-512x512-Crunch-Wicker_Hoop_Symbol_NoRope-66934907_1: -940982101
+      sactx-512x512-Crunch-Wicker_Hoop_Symbol_NoRope-66934907_4: 1006964710
+      sactx-512x512-Crunch-Wicker_Hoop_Symbol_NoRope-66934907_6: 474569469
+      sactx-512x512-Crunch-Wicker_Hoop_Symbol_NoRope-66934907_3: -152777174
+      sactx-512x512-Crunch-Wicker_Hoop_Symbol_NoRope-66934907_5: -704678419
+      sactx-512x512-Crunch-Wicker_Hoop_Symbol_NoRope-66934907_2: -1570360749
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

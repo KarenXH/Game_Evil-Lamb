@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: c5b43b81139220841bfa6a5d5bab1712
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CarvedSymbolTrees_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 123
+        width: 248
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29b5269027b67247b9fbbb3f8701596
+      internalID: 976973931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarvedSymbolTrees_4
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 123
+        width: 249
+        height: 703
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca287b0d9ffd0af4681591a7518a66c8
+      internalID: 1030895694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarvedSymbolTrees_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 214
+        height: 684
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b5e5b1f695dab4b9c61b3805fb18f0
+      internalID: 947716856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarvedSymbolTrees_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 121
+        width: 286
+        height: 651
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9290e277da1c22146ae5f78700a6f970
+      internalID: -1459101082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CarvedSymbolTrees_37: 929814124
+      CarvedSymbolTrees_1: 947716856
+      CarvedSymbolTrees_33: -1861673439
+      CarvedSymbolTrees_24: 889412974
+      CarvedSymbolTrees_17: -8294787
+      CarvedSymbolTrees_21: 946810354
+      CarvedSymbolTrees_2: -1459101082
+      CarvedSymbolTrees_30: 1418611874
+      CarvedSymbolTrees_25: 1505886129
+      CarvedSymbolTrees_12: -429811048
+      CarvedSymbolTrees_31: 2065737128
+      CarvedSymbolTrees_15: 2065094020
+      CarvedSymbolTrees_35: -422283714
+      CarvedSymbolTrees_8: 1489405379
+      CarvedSymbolTrees_3: 976973931
+      CarvedSymbolTrees_29: -1397962436
+      CarvedSymbolTrees_41: -272646145
+      CarvedSymbolTrees_22: 970714054
+      CarvedSymbolTrees_5: -1375855010
+      CarvedSymbolTrees_11: -1614943449
+      CarvedSymbolTrees_18: -1007214044
+      CarvedSymbolTrees_6: 1838359061
+      CarvedSymbolTrees_26: 1946120999
+      CarvedSymbolTrees_9: -1166036216
+      CarvedSymbolTrees_14: -854239778
+      CarvedSymbolTrees_27: 1142703802
+      CarvedSymbolTrees_7: -1527837421
+      CarvedSymbolTrees_40: -1028792904
+      CarvedSymbolTrees_10: -1748547339
+      CarvedSymbolTrees_0: -1638559687
+      CarvedSymbolTrees_13: 1471081490
+      CarvedSymbolTrees_34: -1901210677
+      CarvedSymbolTrees_19: -257834113
+      CarvedSymbolTrees_4: 1030895694
+      CarvedSymbolTrees_20: -2086498364
+      CarvedSymbolTrees_23: 400399882
+      CarvedSymbolTrees_28: 408890914
+      CarvedSymbolTrees_16: 644786209
+      CarvedSymbolTrees_32: 1409384349
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

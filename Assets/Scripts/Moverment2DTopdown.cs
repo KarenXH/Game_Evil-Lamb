@@ -1,0 +1,29 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Moverment2DTopdown : MonoBehaviour
+{
+    [SerializeField] public Vector3 moveInput;
+
+    public float speed;
+    Rigidbody rb;
+    
+    void Start()  {
+        rb = GetComponentInParent<Rigidbody>();
+    }
+    void FixedUpdate()
+    {
+        this.GetInputMaganer();
+        this.PlayerMovement();        
+    }
+    protected virtual void GetInputMaganer()
+    {
+        this.moveInput = InputManager.Instance.M_Input;
+    }
+    protected virtual void PlayerMovement()
+    {
+        rb.MovePosition(transform.position + moveInput * speed * Time.deltaTime);        
+    }
+
+}
