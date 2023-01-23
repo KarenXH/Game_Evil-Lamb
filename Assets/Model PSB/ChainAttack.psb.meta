@@ -21,8 +21,6 @@ ScriptedImporter:
     convertToNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
-    swizzle: 50462976
     isReadable: 0
     streamingMipmaps: 1
     streamingMipmapsPriority: 0
@@ -90,7 +88,9 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
+    parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: disappear_6_3
@@ -623,7 +623,9 @@ ScriptedImporter:
     - {x: 37, y: 38}
     - {x: 38, y: 39}
     tessellationDetail: 0
-    uvTransform: {x: -651, y: 227}
+    parentGroupIndex: -1
+    uvTransform: {x: 202, y: 994}
+    spritePosition: {x: 853, y: 767}
   - name: disappear_6_2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1154,7 +1156,9 @@ ScriptedImporter:
     - {x: 37, y: 38}
     - {x: 38, y: 39}
     tessellationDetail: 0
-    uvTransform: {x: -433, y: 463}
+    parentGroupIndex: -1
+    uvTransform: {x: 420, y: 994}
+    spritePosition: {x: 853, y: 531}
   - name: disappear_6_1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1694,7 +1698,9 @@ ScriptedImporter:
     - {x: 37, y: 38}
     - {x: 38, y: 39}
     tessellationDetail: 0
-    uvTransform: {x: -215, y: 706}
+    parentGroupIndex: -1
+    uvTransform: {x: 638, y: 994}
+    spritePosition: {x: 853, y: 288}
   - name: disappear_5_3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3032,7 +3038,9 @@ ScriptedImporter:
     - {x: 5, y: 100}
     - {x: 16, y: 107}
     tessellationDetail: 0
-    uvTransform: {x: -216, y: -131}
+    parentGroupIndex: -1
+    uvTransform: {x: 632, y: 622}
+    spritePosition: {x: 848, y: 753}
   - name: disappear_5_2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -4370,7 +4378,9 @@ ScriptedImporter:
     - {x: 5, y: 100}
     - {x: 16, y: 107}
     tessellationDetail: 0
-    uvTransform: {x: 13, y: 109}
+    parentGroupIndex: -1
+    uvTransform: {x: 861, y: 622}
+    spritePosition: {x: 848, y: 513}
   - name: disappear_5_1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -5717,7 +5727,9 @@ ScriptedImporter:
     - {x: 5, y: 100}
     - {x: 16, y: 107}
     tessellationDetail: 0
-    uvTransform: {x: 242, y: 350}
+    parentGroupIndex: -1
+    uvTransform: {x: 1090, y: 622}
+    spritePosition: {x: 848, y: 272}
   - name: disappear_4_3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -9120,7 +9132,9 @@ ScriptedImporter:
     - {x: 291, y: 292}
     - {x: 292, y: 293}
     tessellationDetail: 0
-    uvTransform: {x: -484, y: -715}
+    parentGroupIndex: -1
+    uvTransform: {x: 364, y: 4}
+    spritePosition: {x: 848, y: 719}
   - name: disappear_4_2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -12523,7 +12537,9 @@ ScriptedImporter:
     - {x: 291, y: 292}
     - {x: 292, y: 293}
     tessellationDetail: 0
-    uvTransform: {x: -256, y: -473}
+    parentGroupIndex: -1
+    uvTransform: {x: 592, y: 4}
+    spritePosition: {x: 848, y: 477}
   - name: disappear_4_1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -15935,7 +15951,9 @@ ScriptedImporter:
     - {x: 291, y: 292}
     - {x: 292, y: 293}
     tessellationDetail: 0
-    uvTransform: {x: -28, y: -230}
+    parentGroupIndex: -1
+    uvTransform: {x: 820, y: 4}
+    spritePosition: {x: 848, y: 234}
   - name: disappear_3_3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -18512,7 +18530,9 @@ ScriptedImporter:
     - {x: 211, y: 212}
     - {x: 212, y: 213}
     tessellationDetail: 0
-    uvTransform: {x: 197, y: -707}
+    parentGroupIndex: -1
+    uvTransform: {x: 1048, y: 4}
+    spritePosition: {x: 851, y: 711}
   - name: disappear_3_2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -21079,7 +21099,9 @@ ScriptedImporter:
     - {x: 211, y: 212}
     - {x: 212, y: 213}
     tessellationDetail: 0
-    uvTransform: {x: 419, y: -473}
+    parentGroupIndex: -1
+    uvTransform: {x: 1270, y: 4}
+    spritePosition: {x: 851, y: 477}
   - name: disappear_3_1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -23665,7 +23687,9 @@ ScriptedImporter:
     - {x: 211, y: 212}
     - {x: 212, y: 213}
     tessellationDetail: 0
-    uvTransform: {x: 641, y: -234}
+    parentGroupIndex: -1
+    uvTransform: {x: 1492, y: 4}
+    spritePosition: {x: 851, y: 238}
   - name: disappear_2_3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -25088,7 +25112,9 @@ ScriptedImporter:
     - {x: 120, y: 121}
     - {x: 121, y: 122}
     tessellationDetail: 0
-    uvTransform: {x: 859, y: -698}
+    parentGroupIndex: -1
+    uvTransform: {x: 1714, y: 4}
+    spritePosition: {x: 855, y: 702}
   - name: disappear_2_2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -26522,7 +26548,9 @@ ScriptedImporter:
     - {x: 121, y: 122}
     - {x: 122, y: 123}
     tessellationDetail: 0
-    uvTransform: {x: -653, y: 152}
+    parentGroupIndex: -1
+    uvTransform: {x: 202, y: 622}
+    spritePosition: {x: 855, y: 470}
   - name: disappear_2_1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -27943,7 +27971,9 @@ ScriptedImporter:
     - {x: 120, y: 121}
     - {x: 121, y: 122}
     tessellationDetail: 0
-    uvTransform: {x: -438, y: 392}
+    parentGroupIndex: -1
+    uvTransform: {x: 417, y: 622}
+    spritePosition: {x: 855, y: 230}
   - name: disappear_1_3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -28510,7 +28540,9 @@ ScriptedImporter:
     - {x: 45, y: 46}
     - {x: 46, y: 47}
     tessellationDetail: 0
-    uvTransform: {x: 458, y: -95}
+    parentGroupIndex: -1
+    uvTransform: {x: 1319, y: 622}
+    spritePosition: {x: 861, y: 717}
   - name: disappear_1_2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -29077,7 +29109,9 @@ ScriptedImporter:
     - {x: 45, y: 46}
     - {x: 46, y: 47}
     tessellationDetail: 0
-    uvTransform: {x: 661, y: 145}
+    parentGroupIndex: -1
+    uvTransform: {x: 1522, y: 622}
+    spritePosition: {x: 861, y: 477}
   - name: disappear_1_1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -29653,7 +29687,9 @@ ScriptedImporter:
     - {x: 45, y: 46}
     - {x: 46, y: 47}
     tessellationDetail: 0
-    uvTransform: {x: 864, y: 384}
+    parentGroupIndex: -1
+    uvTransform: {x: 1725, y: 622}
+    spritePosition: {x: 861, y: 238}
   - name: chainhead
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -30109,7 +30145,9 @@ ScriptedImporter:
     - {x: 34, y: 35}
     - {x: 35, y: 36}
     tessellationDetail: 0
-    uvTransform: {x: -778, y: -955}
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 782, y: 959}
   - name: chain
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -30963,7 +31001,9 @@ ScriptedImporter:
     - {x: 63, y: 64}
     - {x: 64, y: 65}
     tessellationDetail: 0
-    uvTransform: {x: -859, y: 384}
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 622}
+    spritePosition: {x: 863, y: 238}
   - name: hole
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -31502,7 +31542,9 @@ ScriptedImporter:
     - {x: 38, y: 39}
     - {x: 39, y: 40}
     tessellationDetail: 0
-    uvTransform: {x: 100, y: 817}
+    parentGroupIndex: -1
+    uvTransform: {x: 856, y: 994}
+    spritePosition: {x: 756, y: 177}
   characterData:
     bones:
     - name: bone_1
@@ -31715,7 +31757,6 @@ ScriptedImporter:
       order: 0
     dimension: {x: 0, y: 0}
     characterGroups: []
-    pivot: {x: 0.5, y: 0}
     boneReadOnly: 0
   sharedRigSpriteImportData: []
   sharedRigCharacterData:
@@ -31723,7 +31764,6 @@ ScriptedImporter:
     parts: []
     dimension: {x: 0, y: 0}
     characterGroups: []
-    pivot: {x: 0, y: 0}
     boneReadOnly: 0
   platformSettings: []
   mosaicLayers: 1
@@ -31736,7 +31776,6 @@ ScriptedImporter:
   paperDollMode: 0
   keepDupilcateSpriteName: 1
   skeletonAssetReferenceID: 
-  padding: 4
   spriteCategoryList:
     categories: []
   spritePackingTag: 
@@ -31955,7 +31994,6 @@ ScriptedImporter:
     isVisible: 1
   sharedRigPSDLayers: []
   pSDLayerImportSetting: []
-  importFileNodeState: 1
   generateGOHierarchy: 0
   textureAssetName: 
   prefabAssetName: 
